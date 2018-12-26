@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="../Akame.targets" />
+  <PropertyGroup>
+    <AssemblyName>Akame.Core</AssemblyName>
+    <RootNamespace>Akame</RootNamespace>
+    <Description>Contains core components for Akame, does not cover the api.</Description>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

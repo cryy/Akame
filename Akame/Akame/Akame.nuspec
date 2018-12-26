@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Akame</id>
+    <version>0.1$suffix$</version>
+    <title>Akame</title>
+    <authors>cry</authors>
+    <owners>cry</owners>
+    <description>[Metapackage] A full .NET Standard 2.0 wrapper for weeb.sh</description>
+    <tags>weeb;weeb.sh;weebsh</tags>
+    <projectUrl>https://github.com/strangenesX/Akame</projectUrl>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
