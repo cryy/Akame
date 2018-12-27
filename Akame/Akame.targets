@@ -1,5 +1,6 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
+	      <LangVersion>7.3</LangVersion>
         <VersionPrefix>0.1</VersionPrefix>
         <VersionSuffix>pre</VersionSuffix>
         <Authors>RogueException</Authors>
